@@ -1,4 +1,4 @@
-# Bounding_Box_Head_From_Scratch
+# Object Localisation
 Build a model to detect a simple bounding box  i.e build a regression head
 
 

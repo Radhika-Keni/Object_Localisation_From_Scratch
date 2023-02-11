@@ -1,4 +1,4 @@
-# Object Localisation
+# Object Localisation(From Scratch)
 Build a model to detect a simple bounding box  i.e build a regression head
 
 

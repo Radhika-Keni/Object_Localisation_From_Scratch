@@ -1,5 +1,5 @@
 # Object Localisation(From Scratch)
-Build a model to detect a simple bounding box  i.e build a regression head on Oxford IIT Data set
+Create and build a model(from scratch) to detect a simple bounding box  i.e build a regression head on Oxford IIT Data set
 
 
 
